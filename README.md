@@ -78,6 +78,7 @@ assign h = ~(a^b);
 endmodule 
 ```
  Developed by: Priyadharshini V
+ 
  RegisterNumber: 25018161
  
 **Logic symbol & Truthtable**
